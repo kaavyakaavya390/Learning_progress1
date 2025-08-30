@@ -5,12 +5,6 @@ Its vast standard library (API) covers everything from file handling to networki
 Java is widely used in web development, Android apps, enterprise software, and big data systems. 
 With strong security features, Java ensures safe execution in controlled environments. 
 Regular updates make it a versatile and reliable choice for developers.
-Java Components
-
-JDK (Java Development Kit) → Development environment (compiler, libraries, tools).
-
-JRE (Java Runtime Environment) → Libraries + JVM for running code.
-
 ***Java Components***
 
 JDK (Java Development Kit) → Development environment (compiler, libraries, tools).
