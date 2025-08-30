@@ -11,4 +11,10 @@ JDK (Java Development Kit) → Development environment (compiler, libraries, too
 
 JRE (Java Runtime Environment) → Libraries + JVM for running code.
 
+***Java Components***
+
+JDK (Java Development Kit) → Development environment (compiler, libraries, tools).
+
+JRE (Java Runtime Environment) → Libraries + JVM for running code.
+
 JVM (Java Virtual Machine) → Executes Java bytecode, platform-independent.
