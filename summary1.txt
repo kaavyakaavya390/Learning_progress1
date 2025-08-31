@@ -5,20 +5,21 @@
 *Java is widely used in web development, Android apps, enterprise software, and big data systems. 
 *With strong security features, Java ensures safe execution in controlled environments. 
 *Regular updates make it a versatile and reliable choice for developers.
-***Java Components***
 
-JDK (Java Development Kit) → Development environment (compiler, libraries, tools).
+    ***Java Components***
 
-JRE (Java Runtime Environment) → Libraries + JVM for running code.
+        JDK (Java Development Kit) → Development environment (compiler, libraries, tools).
 
-JVM (Java Virtual Machine) → Executes Java bytecode, platform-independent.
+        JRE (Java Runtime Environment) → Libraries + JVM for running code.
 
-***Java Editions***
+        JVM (Java Virtual Machine) → Executes Java bytecode, platform-independent.
 
-Java SE (Standard Edition) → Core features (desktop apps).
+    ***Java Editions***
 
-Java EE / Jakarta EE (Enterprise Edition) → Web & enterprise apps.
+        Java SE (Standard Edition) → Core features (desktop apps).
 
-Java ME (Micro Edition) → Mobile/embedded devices.
+        Java EE / Jakarta EE (Enterprise Edition) → Web & enterprise apps.
 
-JavaFX → Rich GUI applications.
+        Java ME (Micro Edition) → Mobile/embedded devices.
+
+        JavaFX → Rich GUI applications.
