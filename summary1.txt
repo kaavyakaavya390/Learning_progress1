@@ -6,23 +6,6 @@
 *With strong security features, Java ensures safe execution in controlled environments. 
 *Regular updates make it a versatile and reliable choice for developers.
 
-<<<<<<< HEAD
-    ***Java Components***
-
-        JDK (Java Development Kit) → Development environment (compiler, libraries, tools).
-
-        JRE (Java Runtime Environment) → Libraries + JVM for running code.
-=======
-->JDK (Java Development Kit) → Development environment (compiler, libraries, tools).
-
-->JRE (Java Runtime Environment) → Libraries + JVM for running code.
-
-->JVM (Java Virtual Machine) → Executes Java bytecode, platform-independent.
->>>>>>> local
-
-        JVM (Java Virtual Machine) → Executes Java bytecode, platform-independent.
-
-<<<<<<< HEAD
     ***Java Editions***
 
         Java SE (Standard Edition) → Core features (desktop apps).
@@ -32,12 +15,3 @@
         Java ME (Micro Edition) → Mobile/embedded devices.
 
         JavaFX → Rich GUI applications.
-=======
-->Java SE (Standard Edition) → Core features (desktop apps).
-
-->Java EE / Jakarta EE (Enterprise Edition) → Web & enterprise apps.
-
-->Java ME (Micro Edition) → Mobile/embedded devices.
-
-->JavaFX → Rich GUI applications.
->>>>>>> local
