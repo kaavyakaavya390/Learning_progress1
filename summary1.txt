@@ -7,18 +7,18 @@
 *Regular updates make it a versatile and reliable choice for developers.
 ***Java Components***
 
-JDK (Java Development Kit) → Development environment (compiler, libraries, tools).
+->JDK (Java Development Kit) → Development environment (compiler, libraries, tools).
 
-JRE (Java Runtime Environment) → Libraries + JVM for running code.
+->JRE (Java Runtime Environment) → Libraries + JVM for running code.
 
-JVM (Java Virtual Machine) → Executes Java bytecode, platform-independent.
+->JVM (Java Virtual Machine) → Executes Java bytecode, platform-independent.
 
 ***Java Editions***
 
-Java SE (Standard Edition) → Core features (desktop apps).
+->Java SE (Standard Edition) → Core features (desktop apps).
 
-Java EE / Jakarta EE (Enterprise Edition) → Web & enterprise apps.
+->Java EE / Jakarta EE (Enterprise Edition) → Web & enterprise apps.
 
-Java ME (Micro Edition) → Mobile/embedded devices.
+->Java ME (Micro Edition) → Mobile/embedded devices.
 
-JavaFX → Rich GUI applications.
+->JavaFX → Rich GUI applications.
