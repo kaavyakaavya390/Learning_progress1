@@ -13,4 +13,12 @@ JRE (Java Runtime Environment) → Libraries + JVM for running code.
 
 JVM (Java Virtual Machine) → Executes Java bytecode, platform-independent.
 
+***Java Editions***
 
+Java SE (Standard Edition) → Core features (desktop apps).
+
+Java EE / Jakarta EE (Enterprise Edition) → Web & enterprise apps.
+
+Java ME (Micro Edition) → Mobile/embedded devices.
+
+JavaFX → Rich GUI applications.
