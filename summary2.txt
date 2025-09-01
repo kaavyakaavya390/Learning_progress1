@@ -11,15 +11,3 @@ Enterprise software (Banking, ERP systems).
 Game development.
 
 Big Data, Cloud, and AI integrations.
-adding some more ponits soon...
-for check1
-for check2
-check 1
-check2
-this is for stash check.
-this is day 5
-line 1
-line 2
-bug 1
-bug 3
-bug 4
