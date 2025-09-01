@@ -20,3 +20,4 @@ this is for stash check.
 this is day 5
 line 1
 line 2
+bug 1
