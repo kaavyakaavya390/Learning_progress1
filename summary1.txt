@@ -25,3 +25,4 @@ pull command check
 pull command check2
 line 1
 line 2 
+bug 2
