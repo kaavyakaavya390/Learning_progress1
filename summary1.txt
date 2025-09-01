@@ -21,8 +21,3 @@
 ->Java ME (Micro Edition) → Mobile/embedded devices.
 
 ->JavaFX → Rich GUI applications.
-pull command check
-pull command check2
-line 1
-line 2 
-bug 2
