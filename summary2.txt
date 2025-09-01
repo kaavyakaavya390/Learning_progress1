@@ -18,3 +18,4 @@ check 1
 check2
 this is for stash check.
 this is day 5
+line 1
